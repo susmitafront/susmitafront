@@ -2,7 +2,7 @@
 #### Front end Developer
 As a front-end developer, creating perfect websites with 100% client satisfaction is my passion. I'm passionate about learning and imparting what I know to as many people as I can. I enjoy finding solutions to practical problems. I constantly work with a final goal in mind and am strategically goal-oriented. I work with HTML, CSS, JavaScript, Tailwind, Vue, Nuxt.
 
-Skills: Nuxt / VUE JS / Tailwind / JS / HTML / CSS
+Skills: HTML / CSS / JS / Tailwind / VUE JS / Nuxt
 
 - 🔭 I’m currently working on Creative Pathways BD 
 - 🌱 I’m currently learning Vue Js 
